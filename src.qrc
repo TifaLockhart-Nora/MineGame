@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/center1.png</file>
+        <file>images/cover1.png</file>
+        <file>light.gif</file>
+        <file>images/blast0.png</file>
+        <file>images/flag1.png</file>
+        <file>images/interrogation1_0.png</file>
+        <file>images/minetip0.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/5.png</file>
+        <file>images/6.png</file>
+        <file>images/7.png</file>
+        <file>images/MineSweeping.png</file>
+        <file>images/Asuna.jpg</file>
+        <file>images/Asuna1.jpg</file>
+        <file>images/a.jpg</file>
+        <file>images/mine1_0.png</file>
+        <file>images/background.jpg</file>
+        <file>images/blackgroud.jpg</file>
+        <file>sound/File0002.wav</file>
+        <file>sound/File0004.wav</file>
+        <file>sound/File0015.wav</file>
+        <file>sound/File0021.wav</file>
+        <file>sound/music.wav</file>
+        <file>images/1.gif</file>
+    </qresource>
+</RCC>
